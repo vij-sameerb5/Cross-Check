@@ -13,6 +13,7 @@ We’ve got two solid options here: the classic fill-in puzzle for those who lik
 This one’s smooth sailing—no speed bumps here! But if you’re going full-on rapid-fire on that Generate button, it might tap out since it’s limited by the word definitions API. The grid’s pretty cohesive, but it might end up in a few separate bits, though most words will still link together in a big ol' main block.
 
 **Example**:
+
 <img width="593" alt="Screenshot 2024-10-25 at 2 17 15 PM" src="https://github.com/user-attachments/assets/c9e3ffff-4117-454d-b77d-c897b566bc06">
 
 
