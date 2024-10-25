@@ -22,3 +22,5 @@ The performance here? Well, let's just say it's a bit unpredictable! Sometimes i
 [here](https://github.com/Eko35/EinsteinPuzzleSolver). thanks to J patel for the wordlist 
 
 **Example**:
+
+<img width="570" alt="Screenshot 2024-10-25 at 2 18 09 PM" src="https://github.com/user-attachments/assets/a1f7415f-bcdf-4c5f-b191-868b8103f431">
