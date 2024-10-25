@@ -1,0 +1,23 @@
+## CrossCheck - Puzzle Generator: The Ultimate DIY Crossword Experience!
+## Sameer Shaik -> 
+
+## Get Rolling
+It’s super simple to jump in! Just hit that “Generate!” button, choose your puzzle style (don’t worry, we’ve broken it down below), and you’re all set to dive into solving. You can check your answers, peek at the solution if you’re stuck, and even move between tiles with the arrow keys. It’s like the Times crossword—but you’re in charge!
+
+## Types of CrossCheck Magic 
+
+We’ve got two solid options here: the classic fill-in puzzle for those who like to keep it chill, and a brain-teasing 5x5 American-style crossword, a mini version of what you'd find in the NYTimes.
+
+
+### Fill-in Puzzle
+This one’s smooth sailing—no speed bumps here! But if you’re going full-on rapid-fire on that Generate button, it might tap out since it’s limited by the word definitions API. The grid’s pretty cohesive, but it might end up in a few separate bits, though most words will still link together in a big ol' main block.
+
+**Example**:
+
+![](https://crossword-words.s3.us-east-2.amazonaws.com/002.png)
+
+### NYTimes Mini Puzzle
+The performance here? Well, let's just say it's a bit unpredictable! Sometimes it’s done in a flash; other times, you’re looking at a whole minute and a half. I might dive in with some performance tweaks soon, possibly rethinking the entire approach, so stay tuned! Clues might be a tad quirky since I pulled the wordlist from here, but hey, it keeps things interesting.
+[here](https://github.com/Eko35/EinsteinPuzzleSolver). thanks to J patel for the wordlist 
+
+**Example**:
