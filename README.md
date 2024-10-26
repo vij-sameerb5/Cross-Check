@@ -1,6 +1,9 @@
 ## CrossCheck - Puzzle Generator: The Ultimate DIY Crossword Experience!
 ## Sameer Shaik -> 
 
+Cross-Check:
+<img width="1586" alt="Screenshot 2024-10-26 at 3 03 51 PM" src="https://github.com/user-attachments/assets/5d92dd71-f4ba-4a7c-8fa7-639b6e722f84">
+
 ## Get Rolling
 It’s super simple to jump in! Just hit that “Generate!” button, choose your puzzle style (don’t worry, we’ve broken it down below), and you’re all set to dive into solving. You can check your answers, peek at the solution if you’re stuck, and even move between tiles with the arrow keys. It’s like the Times crossword—but you’re in charge!
 
